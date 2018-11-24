@@ -32,7 +32,3 @@ String TS_API_KEY ="THINGSPEAK API KEY";
 
 You have to change "THINGSPEAK API KEY"
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
