@@ -1,4 +1,4 @@
-# Sonoff-Blynk
+# WFG-1_Blynk
 Connect your Yidong WFG- outlet to the internet and control it using Blynk.
 There are 2 variant of the code:
 * SonoffDHT-Blynk.ThingSpeak; it allow you to connect a DHT22 (or DHT11) to the sonoff, read the temperature in the blynk app and log it in Thingspeak.com 
